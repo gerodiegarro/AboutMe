@@ -1,2 +1,0 @@
-# AboutMe
-who I am
